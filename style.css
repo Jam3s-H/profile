@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
+
+body {
+  font-family:'Open Sans', sans-serif;
+  background-color: #FF8D29;
+  background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+  border-radius: 4px;
+ }
+
+h1, h2 {
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  color: #cb997e;
+  font-weight: 1500;
+}
+
+h2 {
+  color: #cb997e;
+  font-weight: 850;
+}
+
+.container {
+  margin: 25px;
+  justify-content: center;
+}
+
+.card {
+  background-color: #F8F8F4;
+  width: 500px;
+  margin: 16px auto;
+  text-align: center;
+  padding: 24px 48px;
+  border-radius: 4px;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
